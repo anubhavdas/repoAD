@@ -7,6 +7,8 @@ public class NewRepoClass {
 		System.out.println("World");
 		System.out.println("3rd line");
 		//https://github.com/anubhavdas/repoAD.git
+		//Push via eclipse
+	
 	}
 
 }

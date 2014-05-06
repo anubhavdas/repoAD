@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestngAnnotation" failures="0" tests="2" time="0.069" errors="0">
+  <properties/>
+  <testcase name="testCase2" time="0.03" classname="TestngAnnotation"/>
+  <testcase name="testCase1" time="0.001" classname="TestngAnnotation"/>
+</testsuite>

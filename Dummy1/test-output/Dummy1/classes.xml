@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="classes" failures="0" tests="2" time="0.031" errors="0">
+  <properties/>
+  <testcase name="testPrintMessage" time="0.006" classname="testsuite.Test1"/>
+  <testcase name="testSalutationMessage" time="0.008" classname="testsuite.Test2"/>
+</testsuite>

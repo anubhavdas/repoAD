@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Dummy1">
+    <groups>
+    </groups>
+    <test name="testsuite.Test1">
+      <class name="testsuite.Test1">
+        <test-method status="PASS" signature="testPrintMessage()" name="testPrintMessage" duration-ms="156" started-at="2014-05-01T09:38:00Z" finished-at="2014-05-01T09:38:00Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
